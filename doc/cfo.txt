@@ -1,4 +1,4 @@
-*cfo.txt* functionality for Custom Folding Organizer
+*cfo.txt* functionality for Contextual Folding Organizer
 
 Author:  Robin Camarasa <http://robincamarasa.github.io>
 
@@ -19,7 +19,7 @@ Are currently supported: |python|, |vimscript| and |shell|
 CONTENTS                                          *custom-folding-organizer*
         
         0. License .................................. |cfo-license|
-        1. Custom folding ........................... |custom-folding|
+        1. Contextual folding ....................... |contextual-folding|
 
 ===============================================================================
 Section 0: License                                    *cfo-license*
@@ -46,7 +46,7 @@ OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE ~
 USE OR OTHER DEALINGS IN THE SOFTWARE.~
 
 ===============================================================================
-Section 1: Custom folding                             *custom-folding*
+Section 1: Contextual folding                         *contextual-folding*
 
 This plugin add the following |foldmethod| for the different |FileType|
 
